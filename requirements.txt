@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+gtts
+streamlit-webrtc
+openai-whisper
+soundfile
